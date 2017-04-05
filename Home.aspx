@@ -95,7 +95,9 @@
         <tr><td class="auto-style12">
                   <asp:TextBox ID="ResultBox" TextMode="MultiLine" Width=708px Height=218px  runat="server" style="margin-top: 0px"></asp:TextBox>
                  
-              </td></tr>
+              </td>
+
+        </tr>
         </table>
     </div>
     </form>
